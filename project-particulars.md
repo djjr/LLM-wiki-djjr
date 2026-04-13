@@ -5,21 +5,20 @@ It is read at session startup alongside CLAUDE.md. To adapt the wiki engine
 to a new project, copy the skeleton, replace this file, and initialize a new
 log entry. CLAUDE.md itself does not need to change._
 
+
+## ★ PROJECT CONTEXT
+
 ---
 
 ## Project name
 
-AI and KSAS
+Name-that-will-appear-on-the-wiki
 
 ---
 
 ## Substantive focus
 
-This wiki is about KSAS's (Krieger School of Arts and Sciences at Johns Hopkins
-University) work to integrate AI in faculty practice and student learning — to
-develop AI literacy across the Krieger School community while also developing a
-shared language for the school's distinctive human-centered contributions to AI
-scholarship and its societal impact.
+This wiki is about XYZ.
 
 ---
 
